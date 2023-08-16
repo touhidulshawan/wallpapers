@@ -1,0 +1,8 @@
+#+title: Wallpapers
+#+description: Collections of wallpaper that I use on my machine
+
+
+#+begin_quote
+Collections of wallpapers from various sources like [[https://wallhaven.cc/][wallhaven]] and others
+If you find any image that violets copyrights then please create a new issue I will remove that image.
+#+end_quote
