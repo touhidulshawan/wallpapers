@@ -6,3 +6,10 @@
 Collections of wallpapers from various sources like [[https://wallhaven.cc/][wallhaven]] and others
 If you find any image that violets copyrights then please create a new issue I will remove that image.
 #+end_quote
+
+- Some wallpapers
+
+| [[./anime/anime-1.jpg]]     | [[./anime/anime-2.jpg]]      | [[./anime/anime-3.jpg]]      | [[./anime/anime-199.jpg]]    | [[./anime/anime-200.jpg]]    |
+| [[./anime/anime-70.jpg]]    | [[./anime/anime-180.png]]    | [[./anime/anime-80.png]]     | [[./anime/anime-90.jpg]]     | [[./anime/anime-40.png]]     |
+| [[./gruvbox/gruvbox-2.png]] | [[./gruvbox/gruvbox-10.png]] | [[./gruvbox/gruvbox-5.jpg]]  | [[./gruvbox/gruvbox-8.png]]  | [[./gruvbox/gruvbox-7.png]]  |
+| [[./gruvbox/gruvbox-9.jpg]] | [[./gruvbox/gruvbox-12.jpg]] | [[./gruvbox/gruvbox-11.png]] | [[./gruvbox/gruvbox-25.png]] | [[./gruvbox/gruvbox-27.png]] |
